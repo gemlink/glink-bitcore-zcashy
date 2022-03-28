@@ -57,19 +57,19 @@
     }
   ],
   "dependencies": {
-    "blake2b": "@gemlink/blake2b",
+    "bitcore-build": "github:gemlink/bitcore-build",
+    "blake2b": "github:gemlink/blake2b",
     "bn.js": "=4.11.8",
     "bs58": "=4.0.1",
     "buffer-compare": "=1.1.1",
     "elliptic": "=6.4.0",
+    "gulp": "^4.0.2",
     "inherits": "=2.0.1",
     "lodash": "=4.17.4"
   },
   "devDependencies": {
-    "bitcore-build": "@gemlink/bitcore-build",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
-    "gulp": "^3.8.10",
     "sinon": "^1.13.0"
   },
   "directories": {},
@@ -78,7 +78,7 @@
     "tarball": "https://registry.npmjs.org/bitcore-lib/-/bitcore-lib-0.14.0.tgz"
   },
   "gitHead": "2b5b486ee9626eeb0a57c1ef3603d3d42bf46b2f",
-  "homepage": "https://github.com/SimplioOfficial/bitcore-zcashy-modified",
+  "homepage": "https://github.com/gemlink/glink-bitcore-zcashy",
   "keywords": [
     "bitcoin",
     "transaction",
